@@ -1,10 +1,9 @@
-# Halo semua! 
+# Halo! 
 
 Perkenalkan nama saya **Dhiya Fasya**.<br>
 
-I am a student seeking experience and opportunities to learn. I want to develop my skills and contribute to various projects. Knows Basic HTML, CSS, PHP, Database Query, PhpMyAdmin, and Java
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dhiya-fasya-50b358307/)ku ya.
+I am an Informatics student at Universitas Bhayangkara Jakarta Raya with a focus on software development. I have a strong interest in building responsive and efficient user interfaces, and I am continuously learning modern web technologies to support better digital experiences. For me, coding is not just a tool it's a medium to express ideas and solve real-world problems.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/dhiya-fasya)ku ya.
 
 <p align="left">
 <a href="https://github.com/dhiyafasya">
